@@ -413,7 +413,7 @@ public class Juego extends javax.swing.JFrame {
 
     private void NvLeyendaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_NvLeyendaActionPerformed
 
-        Dificultad leyenda = new Dificultad(30, 30, 100, 23, 23);
+        Dificultad leyenda = new Dificultad(60, 60, 100, 23, 23);
         leyenda.aplicarDificultad(this);
 
     }//GEN-LAST:event_NvLeyendaActionPerformed
